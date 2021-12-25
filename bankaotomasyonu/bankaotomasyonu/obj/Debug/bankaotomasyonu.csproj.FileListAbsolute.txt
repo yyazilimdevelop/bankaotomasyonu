@@ -1,0 +1,14 @@
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\bin\Debug\bankaotomasyonu.exe.config
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\bin\Debug\bankaotomasyonu.exe
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\bin\Debug\bankaotomasyonu.pdb
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.csprojAssemblyReference.cache
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.Form1.resources
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.GirisForm.resources
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.MusteriForm.resources
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.PersonelForm.resources
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.Properties.Resources.resources
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.YoneticiForm.resources
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.csproj.GenerateResource.cache
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.exe
+C:\Users\racap\Documents\ödev\bankaotomasyonu\bankaotomasyonu\obj\Debug\bankaotomasyonu.pdb
