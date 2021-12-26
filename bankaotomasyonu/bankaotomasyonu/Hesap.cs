@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bankaotomasyonu
 {
-    class Hesap
+    public class Hesap
     {
         public int No { get; set; }
         public decimal bakiye { get; set; }

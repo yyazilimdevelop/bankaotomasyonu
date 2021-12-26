@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bankaotomasyonu
 {
-    class BireyselMusteri:Musteri
+    public class BireyselMusteri:Musteri
     {
         public int havaleOrani { get; set; }
     }

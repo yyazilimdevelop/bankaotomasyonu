@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bankaotomasyonu
 {
-    abstract class Musteri : person, MusteriOzellikleri
+    public abstract class Musteri : person, MusteriOzellikleri
 
     {
         public DateTime Tarih { get; set; }
